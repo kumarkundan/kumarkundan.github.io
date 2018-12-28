@@ -1,20 +1,20 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Kumar Kundan
+email: kkajnabi.kumar@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, AngularJS, Angular2, React-Native, NodeJS, MongoDB, AWS, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
+skills: "Software Developer from Bangalore, Karnataka (India)"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in/kumar-kundan-301377a2/
+  - title: facebook
+    url: https://www.facebook.com/kumar.kundan.54
   - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://twitter.com/kkajnabi
     
 # Google webmaster tools
 google_verify:
